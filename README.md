@@ -1,4 +1,7 @@
+<hr>
+
 ### Hello, I'm Rafaela :vulcan_salute:
+
 #####  I am a student of systems analysis and development
 - :woman_technologist: I am an IT Support and Analysis intern
 - :seedling: I am currently studying FrontEnd development with ReactJs
