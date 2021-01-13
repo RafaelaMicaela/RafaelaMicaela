@@ -1,3 +1,5 @@
+<img src="front-end developer.png">
+
 <hr>
 
 ### Hello, I'm Rafaela :vulcan_salute:
