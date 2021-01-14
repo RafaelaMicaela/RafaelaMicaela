@@ -1,4 +1,3 @@
-<img src="front-end developer.png">
 
 <hr>
 
