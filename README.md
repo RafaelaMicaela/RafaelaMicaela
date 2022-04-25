@@ -1,6 +1,6 @@
 
 
-### Hi there, I'm Rafaela :vulcan_salute:
+### Hi there :vulcan_salute:
 
 #####  I am a student of systems analysis and development
 - :woman_technologist: front-end developer
