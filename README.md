@@ -11,7 +11,7 @@
 
 <p align="left">
   <a https://github.com/RafaelaMicaela>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelaMicaela&count_private=true&show_icons=true&theme=aura"/>_
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelaMicaela&count_private=true&show_icons=true&theme=aura"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelaMicaela&layout=compact&theme=aura" />
   </a>
 </p>
