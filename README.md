@@ -2,12 +2,12 @@
 
 ### Hey there,  I'm Rafaela :vulcan_salute:
 
-#####  I am a student of systems analysis and development
-- :woman_technologist: front-end developer
-- :seedling: I am currently studying FrontEnd development with VueJs and ReactJs
+- :woman_technologist: Systems analyst and developer
+- :seedling: I am currently studying FrontEnd development with VueJs and NextJs
+  
 
 ### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,vue,styledcomponents,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,vue,nextjs,git,gitlab,linux,redhat)](https://skillicons.dev)
 
 <p align="left">
   <a https://github.com/RafaelaMicaela>
