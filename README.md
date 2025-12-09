@@ -1,20 +1,34 @@
+# Hi there 👋
 
+I'm Rafaela Medeiros, a web developer passionate about creating intuitive and accessible digital experiences.
+Currently, my focus is on front-end development, and I also work with back-end.
+I have a degree in Systems Analysis and Development and I'm always improving my skills through personal and professional projects.
 
-### Hey there,  I'm Rafaela :vulcan_salute:
+---
 
-- :woman_technologist: Systems analyst and developer
-- :seedling: I am currently studying FrontEnd development with VueJs and NextJs
-  
+## 🔗 Connect with me
 
-### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=ts,react,vue,nextjs,git,gitlab,linux,redhat)](https://skillicons.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaela-medeiros-72b5b2177/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-gamma-rosy-24.vercel.app)
 
-<p align="left">
-  <a https://github.com/RafaelaMicaela>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelaMicaela&count_private=true&show_icons=true&theme=aura"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelaMicaela&layout=compact&theme=aura" />
+---
+
+## 💻 Technologies
+
+These are some of the technologies and tools that I work with:
+
+[![Skills](https://skillicons.dev/icons?i=ts,js,react,vue,nextjs,nodejs,postman,git,gitlab,linux,redhat,docker&perline=8)](https://skillicons.dev)
+
+---
+
+## 🐙 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/breno-alves">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=breno-alves&hide_border=true&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=breno-alves&hide_border=true&layout=compact&langs_count=8&theme=dracula"/>
   </a>
 </p>
 
-
+---
 
