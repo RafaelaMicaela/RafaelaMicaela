@@ -26,7 +26,7 @@ These are some of the technologies and tools that I work with:
 <p align="center">
   <a href="https://github.com/breno-alves">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=breno-alves&hide_border=true&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=breno-alves&hide_border=true&layout=compact&langs_count=8&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RafaelaMicaela&hide_border=true&layout=compact&langs_count=8&theme=dracula"/>
   </a>
 </p>
 
