@@ -17,7 +17,7 @@ I have a degree in Systems Analysis and Development and I'm always improving my 
 
 These are some of the technologies and tools that I work with:
 
-[![Skills](https://skillicons.dev/icons?i=ts,js,react,vue,nextjs,nodejs,python,postman,git,gitlab,linux,redhat,docker&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,vue,nextjs,vite,nodejs,python,postman,git,gitlab,linux,redhat,docker&perline=8)](https://skillicons.dev)
 
 ---
 
